@@ -1,0 +1,23 @@
+.row-items {
+  display: flex;
+  flex-direction: row;
+}
+.para {
+  font-size: 25px;
+  font-weight: bold;
+}
+.logo-image {
+  height: 15px;
+  width: 20px;
+}
+.title-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+.spaceInBetween {
+  justify-content: space-between;
+}
+.delete-image {
+  height: 15px;
+  width: 15px;
+}

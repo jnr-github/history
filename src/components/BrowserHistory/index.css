@@ -1,0 +1,21 @@
+.main-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+.history-container {
+  display: flex;
+  flex-direction: row;
+}
+.history-image {
+  height: 20px;
+}
+.search-image {
+  height: 20px;
+  width: 20px;
+}
+.item-container {
+  display: flex;
+  flex-direction: column;
+}
